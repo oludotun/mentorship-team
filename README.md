@@ -1,1 +1,3 @@
-# mentorship-team
+# Node.js Mentorship Program
+
+One of my strongest desire since I started out as a developer is to contribute in a meaningful way to an open source project with a very high number of user base. There are only few (if any) open source project that fits that requirement more that Node.js does. Joining the mentorship team of Node.js for me is an honor and am willing to sacrifice my time and other resources as required to gain such honor. As a result of joining the Node.js mentorship team, I would have fulfilled one of my greatest desire which is to contribute in a meaningful way to a successful open source project. Leaning from some of the best out there is also an additional bonus that cannot be taken for granted.
